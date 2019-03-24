@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=CkbkMznVqQk
 
 # Result
 
-- [ ] Created an AWS account
-- [ ] Watched getting started with AWS video
-- [ ] Watched getting started with serverless video
+- [x] Created an AWS account
+- [x] Watched getting started with AWS video
+- [x] Watched getting started with serverless video
